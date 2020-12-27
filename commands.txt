@@ -1,0 +1,9 @@
+git remote add origin https://github.com/Uberck/mySite.git
+git push origin master
+git push --set-upstream origin mySite
+
+==================================================
+
+git add .     (adds all files)
+git commit -m "Commit name"
+git push origin   (upload to mySite)
